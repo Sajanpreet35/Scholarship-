@@ -1,2 +1,18 @@
-{ "title": "UPSC Prelims Mega MCQ Set - Scholarship Version", "instructions": "MCQs with 3 options (A, B, C), mix of subjects, prelims style, extreme difficulty, each with correct answer.", "questions": [ { "id": 1, "question": "The 105th Constitutional Amendment of India primarily deals with:", "options": { "A": "Extension of reservation to OBCs in promotion", "B": "Continuation of special provisions for SC/ST in local bodies", "C": "Repeal of 9th Schedule" }, "answer": "B" }, { "id": 2, "question": "Which one of the following rivers flows between the Vindhyan and Satpura ranges?", "options": { "A": "Narmada", "B": "Tapti", "C": "Godavari" }, "answer": "A" }, { "id": 3, "question": "The Inflation Targeting mechanism in India is monitored by:", "options": { "A": "RBI", "B": "Finance Ministry", "C": "SEBI" }, "answer": "A" }, { "id": 4, "question": "Consider the following statements regarding the Eastern Ghats:\n1. They are older than the Western Ghats\n2. They have lower rainfall and fewer endemic species\nWhich of the statements is/are correct?", "options": { "A": "1 only", "B": "2 only", "C": "Both 1 and 2" }, "answer": "C" }, { "id": 5, "question": "Which of the following statements about National Hydrogen Energy Mission is correct?", "options": { "A": "It aims for 100% hydrogen adoption in transport by 2030", "B": "It promotes hydrogen production through renewable energy", "C": "It replaces all coal plants with hydrogen plants" }, "answer": "B" } ] }
-
+[
+  {
+    "id": "Q1",
+    "question": "The 105th Constitutional Amendment of India primarily deals with:",
+    "options": [
+      "Extension of reservation to OBCs in promotion",
+      "Continuation of special provisions for SC/ST in local bodies",
+      "Repeal of 9th Schedule"
+    ],
+    "answer": "Continuation of special provisions for SC/ST in local bodies"
+  },
+  {
+    "id": "Q2",
+    "question": "Which one of the following rivers flows between the Vindhyan and Satpura ranges?",
+    "options": ["Narmada", "Tapti", "Godavari"],
+    "answer": "Narmada"
+  }
+]
