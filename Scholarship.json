@@ -1,18 +1,32 @@
 [
   {
-    "id": "Q1",
-    "question": "The 105th Constitutional Amendment of India primarily deals with:",
-    "options": [
-      "Extension of reservation to OBCs in promotion",
-      "Continuation of special provisions for SC/ST in local bodies",
-      "Repeal of 9th Schedule"
-    ],
-    "answer": "Continuation of special provisions for SC/ST in local bodies"
+    "id": "q1",
+    "question": "What is the capital of India?",
+    "options": ["Mumbai", "Delhi", "Bangalore", "Kolkata"],
+    "answer": "Delhi"
   },
   {
-    "id": "Q2",
-    "question": "Which one of the following rivers flows between the Vindhyan and Satpura ranges?",
-    "options": ["Narmada", "Tapti", "Godavari"],
-    "answer": "Narmada"
+    "id": "q2",
+    "question": "Who wrote 'Hamlet'?",
+    "options": ["Charles Dickens", "William Shakespeare", "Mark Twain", "Leo Tolstoy"],
+    "answer": "William Shakespeare"
+  },
+  {
+    "id": "q3",
+    "question": "2 + 2 * 2 equals?",
+    "options": ["6", "8", "4", "2"],
+    "answer": "6"
+  },
+  {
+    "id": "q4",
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Venus", "Mars", "Jupiter"],
+    "answer": "Mars"
+  },
+  {
+    "id": "q5",
+    "question": "What is the chemical symbol of water?",
+    "options": ["H2O", "CO2", "NaCl", "O2"],
+    "answer": "H2O"
   }
 ]
